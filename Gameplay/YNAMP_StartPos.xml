@@ -675,8 +675,8 @@
         </Replace>
         <Replace>
             <Civilization>CIVILIZATION_SCYTHIA</Civilization>
-            <X>1</X>
-            <Y>1</Y>
+            <X>101</X>
+            <Y>52</Y>
         </Replace>
         <Replace>
             <Civilization>CIVILIZATION_SPAIN</Civilization>
