@@ -51,5 +51,17 @@ UPDATE Civilizations SET Ethnicity = 'ETHNICITY_ASIAN'		WHERE CivilizationType =
 UPDATE Civilizations SET Ethnicity = 'ETHNICITY_AFRICAN'	WHERE CivilizationType = 'CIVILIZATION_KUMASI';
 UPDATE Civilizations SET Ethnicity = 'ETHNICITY_AFRICAN'	WHERE CivilizationType = 'CIVILIZATION_ZANZIBAR';
 
+-- DLC CS
+-- Euro City States
+UPDATE Civilizations SET Ethnicity = 'ETHNICITY_EURO' WHERE CivilizationType = 'CIVILIZATION_ARMAGH';
+UPDATE Civilizations SET Ethnicity = 'ETHNICITY_EURO' WHERE CivilizationType = 'CIVILIZATION_GRANADA';
+-- SouthAm City States
+UPDATE Civilizations SET Ethnicity = 'ETHNICITY_SOUTHAM' WHERE CivilizationType = 'CIVILIZATION_PALENQUE';
+-- Medit City States
+UPDATE Civilizations SET Ethnicity = 'ETHNICITY_EURO' WHERE CivilizationType = 'CIVILIZATION_MUSCAT';
+-- Asian City States
+UPDATE Civilizations SET Ethnicity = 'ETHNICITY_ASIAN' WHERE CivilizationType = 'CIVILIZATION_AUCKLAND';
+-- African City States
+UPDATE Civilizations SET Ethnicity = 'ETHNICITY_AFRICAN' WHERE CivilizationType = 'CIVILIZATION_ANTANANARIVO';
 
 		
